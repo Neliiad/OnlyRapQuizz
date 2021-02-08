@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">quizz</string>
+    <string name="textview">textview</string>
+    <string name="r_ponses">Réponses</string>
+    <string name="textView">Textview</string>
+    <string name="onlyrap">ONLYRAP</string>
+    <string name="testez_votre_culture_rap">Testez votre culture rap</string>
+    <string name="jouer">Jouer</string>
+
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="instagram">Instagram</string>
+    <string name="twitter">Twitter</string>
+    <string name="website">Website</string>
+    <string name="nous_suivre">NOUS SUIVRE !</string>
+</resources>
